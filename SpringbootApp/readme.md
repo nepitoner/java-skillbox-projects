@@ -7,7 +7,7 @@ The task was to create an API for managing the news feed by executing REST reque
 * updating an existing news (update);
 * deleting a news item by its ID (deleteById)
 
-Learnt to:
-* Learn how to configure an application to work with a PostgreSQL database.
-* Learn database versioning using Liquibase.
-* Learn to use Spring JPA to configure relationships between entities in a web application.
+Learnt:
+* how to configure an application to work with a PostgreSQL database.
+* database versioning using Liquibase.
+* how to use Spring JPA to configure relationships between entities in a web application.
